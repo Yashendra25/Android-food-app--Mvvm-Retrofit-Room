@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566658413301",
+    "project_id": "android-food-app-12ee0",
+    "storage_bucket": "android-food-app-12ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566658413301:android:8eb70eccc4b13398b58bbc",
+        "android_client_info": {
+          "package_name": "com.yashendra.foodorderingapp_easyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566658413301-kncq42jrvevsh3ni1okdvbpfgkbc714q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaT0rSRUMhIbREmZYVfYXesYSNU1E_dbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566658413301-kncq42jrvevsh3ni1okdvbpfgkbc714q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home" android:icon="@drawable/ic_home" android:id="@+id/homeFragment"/>
+<!--     giving id so that when these clicked respective fragment ca be passed to nav controller-->
+    <item android:title="Favourites" android:icon="@drawable/ic_favourite" android:id="@+id/favouritesFragment"/>
+    <item android:title="Categories" android:icon="@drawable/ic_category" android:id="@+id/categoriesFragment"/>
+    <item android:title="Cart" android:icon="@drawable/ic_baseline_shopping_cart_checkout_24" android:id="@+id/cartFragment"/>
+
+</menu>
